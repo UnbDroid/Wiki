@@ -1,10 +1,24 @@
 # Wiki
 
-### Português
+### Objetivo
 
-Existem muitas coisas para saber sobre softwares, sensores, fabricação, programação e outras informações úteis.
-Esse repositório contém apenas arquivos de suporte para o Wiki.
-Para informações e tutoriais, por favor, veja o [Wiki](https://github.com/UnbDroid/Wiki/wiki).
+Esse wiki tem por objetivo armazenar informações comuns que se reunem em outros repositórios, seja como realizar a leitura de sensores, como instalar algum software, dicas e diversas outras coisas.
+
+Vale a pena citar que o wiki não contém tutoriais se eles já existem na internet. Contém apenas informações que não se encontra nos tutoriais da internet. O objetivo é conter links e comentários sobre cada link para servir de guia para pesquisarem.
+
+Por exemplo, não explicar como utilizar uma ponte H, mas colocar diversos links com o Datasheet e tutoriais de como utiliza-lo e comentar os links, dizendo qual é o melhor e o porquê.
+
+### O conteudo
+
+O conteúdo se encontra totalmente na aba [**Wiki**](https://github.com/UnbDroid/Wiki/wiki) desse repositório. Os arquivos desse repositório são só arquivos auxiliares para o wiki, ou seja, apenas imagens para tutoriais e outras coisas.
+
+### Contribuir
+
+Você pode contribuir com o wiki da maneira que achar interessante, desde que cumpra o objetivo de não refazer material, pois já se tem muita coisa na internet, e reinventar a roda nem sempre é legal.
+
+### Contato
+
+Envie e-mail para droid@droidunb.com.
 
 ### English
 
